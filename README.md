@@ -1,8 +1,16 @@
-# Smart Email Assistant
+# 📧 Smart Email Assistant
 
-- Generate email replies
-- Improve text automatically
-- Upload files (.txt, .csv)
-- Built using Streamlit + Python
+🚀 Live App:
+https://email-ai-project-cy3pjuaatkrzdvee9zjhqr.streamlit.app/
 
-Live App: (paste your streamlit link here)
+💡 Features:
+- Email reply generator
+- Tone & length control
+- Text improver
+- File upload support
+- Clean UI
+
+👩‍💻 Built with:
+- Python
+- Streamlit
+- Pandas
